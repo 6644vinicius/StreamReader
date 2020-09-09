@@ -1,0 +1,14 @@
+C:\Users\Vini\source\repos\StreamReader\obj\Debug\StreamReader.csprojAssemblyReference.cache
+C:\Users\Vini\source\repos\StreamReader\obj\Debug\StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\Vini\source\repos\StreamReader\bin\Debug\StreamReader.exe.config
+C:\Users\Vini\source\repos\StreamReader\bin\Debug\StreamReader.exe
+C:\Users\Vini\source\repos\StreamReader\bin\Debug\StreamReader.pdb
+C:\Users\Vini\source\repos\StreamReader\obj\Debug\StreamReader.exe
+C:\Users\Vini\source\repos\StreamReader\obj\Debug\StreamReader.pdb
+C:\Users\Vini\Desktop\StreamReader\obj\Debug\StreamReader.csprojAssemblyReference.cache
+C:\Users\Vini\Desktop\StreamReader\obj\Debug\StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Desktop\StreamReader\obj\Debug\StreamReader.exe
+C:\Users\Vini\Desktop\StreamReader\obj\Debug\StreamReader.pdb
+C:\Users\Vini\Desktop\StreamReader\bin\Debug\StreamReader.exe.config
+C:\Users\Vini\Desktop\StreamReader\bin\Debug\StreamReader.exe
+C:\Users\Vini\Desktop\StreamReader\bin\Debug\StreamReader.pdb
